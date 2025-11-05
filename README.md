@@ -1,53 +1,41 @@
-# EX 9 : IMAGE EDITING
+EX 9 : IMAGE EDITING
+AIM:
+To edit an image using an image editing software.
 
-## AIM:
+EDITING
+⮚ Open your project file and create a duplicate.
 
- To edit an image using an image editing software.
+⮚ Crop the image using crop tool.
 
-## EDITING
+⮚ Change the image size using canvas technique.
 
+BACK GROUND CHANGING
+⮚ Select the area to change the back ground using magic wand tool.
 
-⮚	Open your project file and create a duplicate.
+⮚ Select the back ground image for your image.
 
-⮚	Crop the image using crop tool.
+⮚ Move the shape of the back ground using marquee tool.
 
-⮚	Change the image size using canvas technique.
+⮚ Using selection tool, move the back ground.
 
+CHANGING COLOUR
+⮚ Select the area using Lasso tool .
 
-## BACK GROUND CHANGING
+⮚ Go to image tab and adjustments and select the Hue / saturation option.
 
+⮚ Change the colour using RGB mode.
 
-⮚	Select the area to change the back ground using magic wand tool.
+CHANGING THE SIZE
+⮚ Select your image and go to edit and select transform.
 
-⮚	Select the back ground image for your image.
+⮚ Change the size of the object.
 
-⮚	Move the shape of the back ground using marquee tool.
+⮚ Press enter to set the size.
 
-⮚	Using selection tool, move the back ground.
+OUTPUT:
 
-
-## CHANGING COLOUR
-
-
-⮚	Select the area using Lasso tool .
-
-⮚	Go to image tab and adjustments and select the Hue / saturation option.
-
-⮚	Change the colour using RGB mode.
-
-
-
+<img width="645" height="856" alt="Screenshot 2025-11-05 160723" src="https://github.com/user-attachments/assets/00aff8d7-9089-47f9-b271-a18e46ade489" />
 
 
-## CHANGING THE SIZE
-
-
-⮚	Select your image and go to edit and select transform.
-
-⮚	Change the size of the object.
-
-⮚	Press enter to set the size.
-
-
-
-## OUTPUT:
+Result:
+Thus an image is edited using an image editing software
