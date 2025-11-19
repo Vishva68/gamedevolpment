@@ -34,7 +34,8 @@ CHANGING THE SIZE
 
 OUTPUT:
 
-<img width="645" height="856" alt="Screenshot 2025-11-05 160723" src="https://github.com/user-attachments/assets/00aff8d7-9089-47f9-b271-a18e46ade489" />
+![WhatsApp Image 2025-11-13 at 14 50 12_19a22154](https://github.com/user-attachments/assets/a05ff88a-85d5-4f24-9d2b-a399a1c8b97c)
+
 
 
 Result:
