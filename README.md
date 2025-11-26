@@ -34,9 +34,7 @@ CHANGING THE SIZE
 
 OUTPUT:
 
-![WhatsApp Image 2025-11-13 at 14 50 12_19a22154](https://github.com/user-attachments/assets/a05ff88a-85d5-4f24-9d2b-a399a1c8b97c)
-
-
+<img width="1024" height="1024" alt="gulfi" src="https://github.com/user-attachments/assets/eb218dda-eb6d-4d8c-891f-20c50f29c366" />
 
 Result:
 Thus an image is edited using an image editing software
